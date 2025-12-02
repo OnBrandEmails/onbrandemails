@@ -121,8 +121,8 @@ const Features: React.FC = () => {
                     >
                       {activeView === 'design' ? (
                         <img 
-                          src="https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" 
-                          alt="High Fidelity Design" 
+                          src="/John - OCTOBER.jpg"
+                          alt="High Fidelity Email Design" 
                           className="w-full h-auto object-cover"
                         />
                       ) : (

@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import Hero from './components/Hero';
-import SocialProof from './components/SocialProof';
-import Features from './components/Features';
-import GeminiIdeator from './components/GeminiIdeator';
-import ContactForm from './components/ContactForm';
-import Footer from './components/Footer';
-import VideoTestimonials from './components/VideoTestimonials';
+import Hero from './Hero';
+import SocialProof from './SocialProof';
+import Features from './Features';
+import GeminiIdeator from './GeminiIdeator';
+import ContactForm from './ContactForm';
+import Footer from './Footer';
+import VideoTestimonials from './VideoTestimonials';
 
 const App: React.FC = () => {
   const [scrolled, setScrolled] = useState(false);

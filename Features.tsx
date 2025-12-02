@@ -121,10 +121,10 @@ const Features: React.FC = () => {
                     >
                       {activeView === 'design' ? (
                         <img 
-                          src="/John - OCTOBER.jpg"
-                          alt="High Fidelity Email Design" 
-                          className="w-full h-auto object-cover"
-                        />
+  src="/john-october.jpg"
+  alt="High Fidelity Email Design"
+  className="w-full h-auto object-cover"
+/>
                       ) : (
                         <div className="w-full h-full bg-gray-50 p-4 space-y-4 pt-10">
                           <div className="w-full h-40 border-2 border-dashed border-gray-300 bg-gray-100 flex items-center justify-center text-gray-400 font-mono text-xs text-center p-2 rounded-lg">

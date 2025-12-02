@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { generateStrategyIdeas, StrategyIdea } from '../services/geminiService';
+import { generateStrategyIdeas, StrategyIdea } from './geminiService';
 import { Sparkles, Loader2, Brain, Check } from 'lucide-react';
 import { motion } from 'framer-motion';
 
